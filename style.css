@@ -1,0 +1,13 @@
+body {
+	font-family: helvetica neue,helvetica,sans-serif;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+#shinji {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+}
